@@ -12,7 +12,7 @@ experience creating interactive, user-friendly web interfaces. I have
 worked as a Front-End Developer on freelance projects and am now
 transitioning my specialization to Data Science.
 
-### Contact: :e_mail:
+### Contact
 <!-- I used <br> tag to make a like-->
 [My portfolio](https://madihamalik.netlify.app/)  <br>
 [My Linkedin](https://www.linkedin.com/in/madiha-malik-0097aa264/)
@@ -20,4 +20,4 @@ transitioning my specialization to Data Science.
 #### SKILLS: :wrench:
 <!-- -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,postman,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs.python,postman,git,github&perline=5)](https://skillicons.dev)
