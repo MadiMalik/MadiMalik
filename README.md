@@ -15,7 +15,8 @@ transitioning my specialization to Data Science.
 ### Contact
 <!-- I used <br> tag to make a like-->
 [My portfolio](https://madihamalik.netlify.app/)  <br>
-[My Linkedin](https://www.linkedin.com/in/madiha-malik-0097aa264/)
+[My Linkedin](https://www.linkedin.com/in/madiha-malik-0097aa264/) <br>
+[My Twitter](https://x.com/i/flow/login?redirect_after_login=%2FMadiidevMad)
 
 #### SKILLS: :wrench:
 <!-- -->
