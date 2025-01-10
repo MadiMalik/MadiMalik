@@ -20,4 +20,4 @@ transitioning my specialization to Data Science.
 #### SKILLS: :wrench:
 <!-- -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs.python,postman,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,postman,git,github&perline=5)](https://skillicons.dev)
